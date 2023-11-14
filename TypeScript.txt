@@ -1,0 +1,4 @@
+TypeScript does Static Checking means it tells that there can be an error while running the code without running it actually.
+TypeScript is Converted into JavaScript before executing.
+
+To Check if Typescript is installed type tsc -v in the bash.
