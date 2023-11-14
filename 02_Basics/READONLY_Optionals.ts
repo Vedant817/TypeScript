@@ -14,3 +14,4 @@ let myUser:User = {
 }
 myUser.email = 'vedant@vedant.com'
 // myUser._id = '97979' //? Not allowed
+export {}
